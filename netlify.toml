@@ -1,0 +1,3 @@
+[build]
+  command = ""      # No build step
+  publish = "."     # Publish everything in current folder
